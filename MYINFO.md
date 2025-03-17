@@ -6,6 +6,6 @@
 
 -INTJ
 
-##gufdorgud
+##혈액형
 
 O형
