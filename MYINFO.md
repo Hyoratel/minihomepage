@@ -5,3 +5,7 @@
 ##MBTI
 
 -INTJ
+
+##gufdorgud
+
+O형
