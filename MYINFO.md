@@ -1,2 +1,7 @@
-#my hobby = 웨이트
-#my MBTI = INTJ #혈액형 : O형
+## 취미
+
+-웨이트
+
+##MBTI
+
+-INTJ
