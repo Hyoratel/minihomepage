@@ -32,3 +32,7 @@
 - ENFP
 
 ## 푸터 만들기
+
+## Sidebar 만들기
+
+## SEARCH 만들기
